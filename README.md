@@ -7,8 +7,7 @@ Ref web pages:
 https://www.meesho.com/tshirts-men https://www.olx.in/ https://www.urbanladder.com/
 1. Product listing page
 2. Product details page
-3. Cart page
- For each product item in the cart list:
+3. Cart page, for each product item in the cart list:
 a. Product image, Product name, etc b. Quantity
 c. Delivery date
 d. Total price

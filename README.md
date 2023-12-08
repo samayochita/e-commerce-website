@@ -1,5 +1,7 @@
 # e-commerce-website
 Ecommerce website
+
+
 Milestone-1 (HTML, CSS):
 Build a responsive e-commerce web application containing the following pages. Make sure you use only HTML, CSS, bootstrap containers, flex box, grid etc., for this milestone where the application is static so far.
 Inspect, inquire various e-commerce websites and identify the user friendly interfaces as we mentioned the references in most of the cases.

@@ -1,0 +1,31 @@
+.navbar {
+  /*height: 40px; /* Adjust the height as needed */
+}
+.search{
+  height: 50px;
+  padding-top: 20px;
+}
+.prdname{
+  opacity: 0.7;
+}
+.main{
+  padding-top:20px;
+}
+#carouselExample{
+  margin-left: 100px;
+margin-right: 100px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+.custom-line {
+  border: none;
+  height: 1000px;
+}
+.prddetails{
+  margin-top: 10px;
+  margin-right:100px;
+}
+.gaap{
+  gap: 20px;
+}
